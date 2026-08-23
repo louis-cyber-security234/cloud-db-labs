@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+
+terraform-local-test/.terraform/
+*.tfstate
+*.tfstate.*
